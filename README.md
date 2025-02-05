@@ -10,7 +10,7 @@ doesRhyme("Sam I am!", "Green eggs and ham.")
 output = True
 doesRhyme("Sam I am!", "Green eggs and HAM.")
 output = True
-# Capitalization and punctuation should not matter.
+Capitalization and punctuation should not matter.
 doesRhyme("You're built like a seat", "I bet you like to eat")
 output = True
 doesRhyme("You are off to the races", "a splendid day.")
